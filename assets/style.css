@@ -1,0 +1,37 @@
+.table {
+  font-size: 14px;  
+  border-collapse: collapse;
+}
+
+.table td {
+  text-align: center;
+}
+
+.table th {
+  background: rgb(253, 201, 27);
+  padding: 15px 0;
+}
+
+.table tr {
+  border-bottom: 1px solid gray;
+}
+
+.table ul {
+  padding-left: 20px;
+  text-align: left;
+}
+
+.table-button {
+  background: green;
+  padding: 15px 25px;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #fff;
+  display: inline-block;
+}
+
+
+.checked {
+  color: rgb(253, 201, 27);
+}
+
